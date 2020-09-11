@@ -1,1 +1,2 @@
-Primeiro commit via comandos
+Primeiro commit via comandos  
+Realizada nova atualização (no github)
